@@ -1,0 +1,12 @@
+C:\Users\Pavilion\source\repos\Proyect\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pavilion\source\repos\Proyect\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pavilion\source\repos\Proyect\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Pavilion\source\repos\Proyect\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pavilion\source\repos\Proyect\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pavilion\source\repos\Proyect\Entidades\obj\Debug\Entidades.pdb
+C:\Users\THAMBATO1\source\Proyect\Entidades\bin\Debug\Entidades.dll
+C:\Users\THAMBATO1\source\Proyect\Entidades\bin\Debug\Entidades.pdb
+C:\Users\THAMBATO1\source\Proyect\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\THAMBATO1\source\Proyect\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\THAMBATO1\source\Proyect\Entidades\obj\Debug\Entidades.dll
+C:\Users\THAMBATO1\source\Proyect\Entidades\obj\Debug\Entidades.pdb
